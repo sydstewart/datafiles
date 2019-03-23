@@ -1,0 +1,45 @@
+﻿Show,Filename,Folder,Datecol,Namecol,NoteCol,Title
+n,SalesNos.csv,Test,SaleDate,Interface,,Number of Interfaces Completed
+n,SalesNos.csv,Implementation,SaleDate,NewUpgrades,,Number of New and Upgrades Paid Completed
+n,SalesNos.csv,Implementation,SaleDate,DOACs,,Number of DOACs Completed
+n,Sales Trend2.csv,Test,SaleDate,Sales,,Values of Sales
+n,Sales Trend2.csv,Test,SaleDate,Orders,,Values of Orders
+n,CasesRangeTest.csv,Support Cases,WeekDate,OpenCases,,Range Test Total No. of Open  Cases Week Ending
+n,Cases.csv,Support Cases,WeekDate,OpenCases,,Total No. of Open  Cases Week Ending
+n,Cases.csv,Support Cases,WeekDate,No. of  Cases with 4S,,No. of Cases with 4S Week Ending
+n,Cases.csv,Support Cases,WeekDate,No. of Cases with Customer ,,No. of Cases with Customer Week Ending
+n,Cases.csv,Support Cases,WeekDate,No. of Arriving Calls,,No. of Cases Arriving Week Ending
+n,Cases.csv,Support Cases,WeekDate,No. of Config. Cases Arriving,,No. of Configuration Cases Arriving Week Ending
+n,Cases.csv,Support Cases,WeekDate,No. of Problem Cases Arriving,,No. of Problem Cases Arriving Week Ending
+n,Cases.csv,Support Cases,WeekDate,Nett Promoter Score,, Nett Promoter Score week ending
+n,Sales.csv,Sales,Month,Enquiries AC,SpareNote,Enquiries AC Month Commencing
+n,Sales.csv,Sales,Month,Enquiries Safety Monitoring,SpareNote,Enquiries Safety Monitoring  Month Commencing
+n,Sales.csv,Sales,Month,Total Enquiries,SpareNote,Total Enquiries Month Commencing
+n,Sales.csv,Sales,Month,Percent Follow Ups,SpareNote,Percent Follow Ups Month Commencing
+n,Sales.csv,Sales,Month,Order Value,Annotation1,Order Value Month Commencing
+n,Sales.csv,Sales,Month,Customer Visits,SpareNote,Customer Visits Month Commencing
+n,Interfaces Invoices and Orders.csv,Sales,Month,Interface Orders,SpareNote,Interface Orders Value Month Commencing
+n,Interfaces Invoices and Orders.csv,Sales,Month,Interface Invoices,SpareNote,Interface Invoices Value Month Commencing
+n,New Maint  and Existing Sales.csv,Sales,Month,AC Existing,SpareNote,AC Existing Sales Month Commencing
+n,New Maint  and Existing Sales.csv,Sales,Month,AC Maintenance,SpareNote,AC Maintenance Sales Month Commencing
+n,New Maint  and Existing Sales.csv,Sales,Month,AC New,SpareNote,AC New Sales Month Commencing
+n,New Maint  and Existing Sales.csv,Sales,Month,SM Existing,SpareNote,SM Existing Sales Month Commencing
+n,New Maint  and Existing Sales.csv,Sales,Month,SM Maintenance,SpareNote,SM Maintenance Sales Month Commencing
+n,New Maint  and Existing Sales.csv,Sales,Month,SM New,SpareNote,SM New Sales Month Commencing
+n,Implementation.csv,Implementation,Month,Interface Invoices Nos.,SpareNote,Interface Invoices Nos. Month Ending
+n,Implementation.csv,Implementation,Month,New CF and Upgrades Invoices Nos.,SpareNote,New CF and Upgrades Invoices Nos Month Ending.
+n,Implementation.csv,Implementation,Month,DOAC Invoice Nos.,SpareNote,DOAC Invoice Nos. Month Ending
+y,Supportcases1.csv,Support Cases,WeekDate,OpenCases,Annotation1,Total No. of Open  Cases Week Ending
+y,Supportcases1.csv,Support Cases,WeekDate,No. of  Cases with 4S,Annotation1,No. of Cases with 4S Week Ending
+y,Supportbacklog4S.csv,Support Cases,WeekDate,"No, of Cases excl  Upgrades",Annotation1,"No, of Cases Support Only"
+y,Supportcases1.csv,Support Cases,WeekDate,No. of Cases with Customer ,Annotation1,No. of Cases with Customer Week Ending
+y,Supportcases1.csv,Support Cases,WeekDate,No. of Arriving Calls,Annotation2,No. of Cases Arriving Week Ending
+y,Supportcases1.csv,Support Cases,WeekDate,No. of Configuration Cases Arriving,SpareNote,No. of Configuration Cases Arriving Week Ending
+y,Supportcases1.csv,Support Cases,WeekDate,No. of Problem Cases Arriving,SpareNote,No. of Problem Cases Arriving Week Ending
+y,Supportcases1.csv,Support Cases,WeekDate,Nett Promoter Score,SpareNote, Nett Promoter Score week ending
+y,Supportcases1.csv,Support Cases,WeekDate,No. of Interface Problems,SpareNote,No. of Interface Problems
+y,Supportcases1.csv,Support Cases,WeekDate,No. of Printing Problems,SpareNote,No. of Printing Problems
+y,Supportcases1.csv,Support Cases,WeekDate,No. of Login Cases,SpareNote,No. of Login Cases
+y,Supportcases1.csv,Support Cases,WeekDate,No. of Message templates and letters Issues,SpareNote,No. of Message templates and letters Issues
+y,Supportcases1.csv,Support Cases,WeekDate,No. of report issues ,SpareNote,No. of report issues 
+y,Supportcases1.csv,Support Cases,WeekDate,No. of System Stops Cases Arriving,SpareNote,No. of System Stops Cases Arriving
